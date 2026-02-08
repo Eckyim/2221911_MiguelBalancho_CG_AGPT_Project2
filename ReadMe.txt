@@ -1,0 +1,1 @@
+After downloading the project make sure to build the engine before running the game
